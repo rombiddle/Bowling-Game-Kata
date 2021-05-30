@@ -1,6 +1,4 @@
 Bowling Game Kata
-=================
-> Uncle Bob's classic implemented in *JavaScript*
 
 [bowling-score]: http://www.wpclipart.com/recreation/sports/bowling/bowling_scoresheet_example.png "bowling score card"
 
